@@ -117,7 +117,7 @@ public class PacManGame extends Ucigame {
 		SoundController.stopAllSounds();
 		topScores = new TopScores();
 		mainMenu.stopMenuTheme();		
-		canvas.background(getImage( "topscores.png"));
+		canvas.background(getImage( "R.png"));
 		topScores.startTopScoresTheme();
 		showScene(ScreenMode.SCORES);
 	}

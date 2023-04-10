@@ -22,7 +22,7 @@ public abstract class Ucigame
 	           KeyListener,
 	           FocusListener
 {
-	private static String VERSION = "2007.11.13";
+	private static String VERSION = "2023.04.11";
 	static Ucigame gameObject = null;  			 // only used when not an applet 
 	protected static String rootImagePath = ""; //root path for images
 	private static Object lock1 = new Object();  // for synchronization
