@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pacman-master:jar">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <root id="archive" name="pacman-master_jar.jar">
+      <element id="module-output" name="pacman-master" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ucigame.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/external.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
