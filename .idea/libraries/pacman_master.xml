@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pacman-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ucigame.jar!/" />
+      <root url="jar://$PROJECT_DIR$/external.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
